@@ -1,0 +1,4 @@
+C:/Users/MatthewAlgo/Desktop/ProjectsRecreation/StillTesting/DoublePendulumEmulator/build/CMakeFiles/SineWaveEmulator.dir
+C:/Users/MatthewAlgo/Desktop/ProjectsRecreation/StillTesting/DoublePendulumEmulator/build/CMakeFiles/INSTALL.dir
+C:/Users/MatthewAlgo/Desktop/ProjectsRecreation/StillTesting/DoublePendulumEmulator/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/MatthewAlgo/Desktop/ProjectsRecreation/StillTesting/DoublePendulumEmulator/build/CMakeFiles/ZERO_CHECK.dir

@@ -1,0 +1,37 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "E:/_WINDOWS_DATA_/VCPKG_PACKAGE_MANAGER/installed/x86-windows/include",
+                "${default}"
+            ],
+            "defines": [
+                "${default}"
+            ],
+            "macFrameworkPath": [
+                "${default}",
+                "additional/paths"
+            ],
+            "forcedInclude": [
+                "${default}",
+                "additional/paths"
+            ],
+            "compileCommands": "${default}",
+            "browse": {
+                "limitSymbolsToIncludedHeaders": true,
+                "databaseFilename": "${default}",
+                "path": [
+                    "${default}",
+                    "additional/paths"
+                ]
+            },
+            "intelliSenseMode": "${default}",
+            "cStandard": "c17",
+            "cppStandard": "c++20",
+            "compilerPath": "${default}",
+            "configurationProvider": "ms-vscode.cmake-tools"
+        }
+    ],
+    "version": 4
+}

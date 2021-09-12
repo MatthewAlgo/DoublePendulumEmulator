@@ -1,0 +1,10 @@
+^C:\USERS\MATTHEWALGO\DESKTOP\PROJECTSRECREATION\STILLTESTING\DOUBLEPENDULUMEMULATOR\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/MatthewAlgo/Desktop/ProjectsRecreation/StillTesting/DoublePendulumEmulator -BC:/Users/MatthewAlgo/Desktop/ProjectsRecreation/StillTesting/DoublePendulumEmulator/build --check-stamp-file C:/Users/MatthewAlgo/Desktop/ProjectsRecreation/StillTesting/DoublePendulumEmulator/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
